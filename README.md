@@ -6,4 +6,4 @@ Simple proof of concept website as part of the internship application at CyberSe
 
 # View Live demo below
 
-[Live Preview](https://ethaninstaflame.herokuapp.com/)
+[Live Preview](https://ethanpikedev.github.io/internship-task/)
